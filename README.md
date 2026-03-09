@@ -2,6 +2,8 @@
 
 A proof-of-concept of a daily word puzzle game where you create words using given consonants and any vowels. Built with React, Vite, and Tailwind CSS.
 
+<img width="904" height="803" alt="image" src="https://github.com/user-attachments/assets/420beba7-596e-4f25-a379-b3608f9a0d80" />
+
 
 ## About
 
